@@ -1,8 +1,13 @@
-# Gaia_DR2_ScoCen
-This repository contains python notebooks to retrieve ScoCen stars information from Gaia DR2. 
+# Gaia DR2 ScoCen
 
-Gaia_AstroQuery.ipynb produces a file with different columns for objects in the Gaia DR2 database if they satisfy some selection criteria.
+This repository contains python notebooks to retrieve ScoCen stars information from *Gaia DR2*. 
 
-Data_Selection.ipynb includes an extra step to clean Gaia DR2 data to avoid bad photometry and colors. This also allows to select the pre-main sequence stars from the CMD and create a figure in galactic coordinates to visualize the position of these stars.
+__Gaia_AstroQuery.ipynb__: produces a file with different columns for objects in the Gaia DR2 database if they satisfy some selection criteria.
 
-The Ra and Dec, as well as the galactic coordinates (l, b) for each pre-main sequence star are saved in a coordinates file. 
+__Data_Selection.ipynb__: includes an extra step to clean *Gaia DR2* data to avoid bad photometry and colors. This also allows to select the pre-main sequence stars from the *CMD* and create a figure in galactic coordinates to visualize the position of these stars.
+
+The equatorial coordinates (__Ra__, __Dec__), as well as the galactic coordinates (__l__, __b__) for each pre-main sequence star are saved in a coordinates file. 
+
+# License
+
+The code is released under a MIT license. MIT is a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.

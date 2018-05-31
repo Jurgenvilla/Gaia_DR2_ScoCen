@@ -8,8 +8,6 @@ __Data_Selection.ipynb__: includes an extra step to clean *Gaia DR2* data to avo
 
 The equatorial coordinates (__Ra__, __Dec__), as well as the galactic coordinates (__l__, __b__) for each pre-main sequence star are saved in a coordinates file. 
 
-![alt text](https://github.com/Jurgenvilla/Gaia_DR2_ScoCen/ScoCen_Coordinates_Parallax.png)
-
 # License
 
 The code is released under a MIT license. MIT is a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.

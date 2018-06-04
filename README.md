@@ -1,6 +1,6 @@
 # Gaia DR2 ScoCen
 
-![scocen_coordinates_2](https://user-images.githubusercontent.com/2405448/40944928-e33df07c-6856-11e8-9ef8-5c7e243f9d9e.png)
+<span style="display:block;text-align:right">![scocen_coordinates_2](https://user-images.githubusercontent.com/2405448/40944928-e33df07c-6856-11e8-9ef8-5c7e243f9d9e.png)</span>
 
 This repository contains python notebooks to retrieve ScoCen stars information from *Gaia DR2*. 
 

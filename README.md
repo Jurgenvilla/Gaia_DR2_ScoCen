@@ -6,6 +6,8 @@ __Gaia_AstroQuery.ipynb__: produces a file with different columns for objects in
 
 __Data_Selection.ipynb__: includes an extra step to clean *Gaia DR2* data to avoid bad photometry and colors. This also allows to select the pre-main sequence stars from the *CMD* and create a figure in galactic coordinates to visualize the position of these stars.
 
+__Interactive_Path_Selection.ipynb__: includes the main routine to select the polygon path which will be used to select the pre-main sequence stars.
+
 The equatorial coordinates (__Ra__, __Dec__), as well as the galactic coordinates (__l__, __b__) for each pre-main sequence star are saved in a coordinates file. 
 
 # License

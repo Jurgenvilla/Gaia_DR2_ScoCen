@@ -1,6 +1,6 @@
 # Gaia DR2 ScoCen
 
-This repository contains python notebooks to retrieve ScoCen stars information from *Gaia DR2*. 
+This repository contains python notebooks to reproduce the Color-Magnitude diagram of Sco-Cen region drawn by the young stellar population using *Gaia DR2* data. 
 
 ![scocen_coordinates_2](https://user-images.githubusercontent.com/2405448/40944928-e33df07c-6856-11e8-9ef8-5c7e243f9d9e.png)
 

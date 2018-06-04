@@ -17,7 +17,9 @@ __Astropy__ (http://www.astropy.org/), __Astroquery__ (http://astroquery.readthe
 The notebooks need to be executed in this order: 
 
 __(i)__  Gaia_AstroQuery.ipynb to obtain the data.
+
 __(ii)__ Interactive_Path_Selection.ipynb if the user wants to select their own region. 
+
 __(iii)__ Data_Selection.ipynb directly after step __(i)__ to use the original path selected in our sample. 
 
 An original copy is saved in folder __Original_Copy__; thus, the user can run the notebooks, modify the queries and paths, overwriting the files and compare to the original selection in our work. 

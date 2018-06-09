@@ -26,6 +26,10 @@ __(iii)__ Data_Selection.ipynb can be used directly after step __(i)__ to use th
 
 An original copy is saved in folder __Original_Copy__; thus, the user can run the notebooks, modify the queries and paths, overwriting the files and compare to the original selection in our work. 
 
+# Acknowledgements
+
+These notebooks have made use of data from the European Space Agency (ESA) mission _Gaia_ https://www.cosmos.esa.int/gaia, processed by the _Gaia_ Data Processing and Analysis Consortium (DPAC, https://www.cosmos.esa.int/web/gaia/dpac/consortium). Funding for the DPAC has been provided by national institutions, in particular the institutions participating in the _Gaia_ Multilateral Agreement
+
 # License
 
 The code is released under an MIT license. MIT is a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications and larger works may be distributed under different terms and without source code.

@@ -2,6 +2,8 @@
 
 This repository contains python notebooks to reproduce the Color-Magnitude diagram of Sco-Cen region drawn by the young stellar population using *Gaia DR2* data. 
 
+[![DOI](https://zenodo.org/badge/135638615.svg)](https://zenodo.org/badge/latestdoi/135638615)
+
 ![scocen_coordinates](https://user-images.githubusercontent.com/2405448/41111658-e2227f32-6a7c-11e8-8856-73f59cf9e614.png)
 
 __Gaia_AstroQuery.ipynb__: produces a file with different columns for objects in the Gaia DR2 database, if they satisfy some selection criteria.

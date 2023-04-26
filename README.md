@@ -27,6 +27,14 @@ __(iii)__ Data_Selection.ipynb can be used directly after step __(i)__ to use th
 
 An original copy is saved in folder __Original_Copy__; thus, the user can run the notebooks, modify the queries and paths, overwriting the files and compare to the original selection in our work. 
 
+# Citation
+
+If you use this results and tools plese cite: 
+
+Villa Vélez, J. A., Brown, A. G. A., & Kenworthy, M. A. 2018, Research Notes of the American Astronomical Society, 2, 58
+
+https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...58V/abstract
+
 # Acknowledgements
 
 These notebooks have made use of data from the European Space Agency (ESA) mission _Gaia_ https://www.cosmos.esa.int/gaia, processed by the _Gaia_ Data Processing and Analysis Consortium (DPAC, https://www.cosmos.esa.int/web/gaia/dpac/consortium). Funding for the DPAC has been provided by national institutions, in particular the institutions participating in the _Gaia_ Multilateral Agreement

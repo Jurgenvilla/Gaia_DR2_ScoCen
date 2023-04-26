@@ -29,9 +29,9 @@ An original copy is saved in folder __Original_Copy__; thus, the user can run th
 
 # Citation
 
-If you use this results and tools plese cite: 
+If you use these results or tools plese cite: 
 
-Villa Vélez, J. A., Brown, A. G. A., & Kenworthy, M. A. 2018, Research Notes of the American Astronomical Society, 2, 58
+_Villa Vélez, J. A., Brown, A. G. A., & Kenworthy, M. A. 2018, Research Notes of the American Astronomical Society, 2, 58_
 
 https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...58V/abstract
 
